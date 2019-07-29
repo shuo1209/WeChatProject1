@@ -1,0 +1,38 @@
+<view class="box">
+    <view class="sun">
+        <view class="face">
+            <view class="pupil-left"></view>
+            <view class="pupil-right"></view>
+            <view class="smile"></view>
+        </view>
+
+        <view class="ray">
+            <view class="beam r1"></view>
+            <view class="beam r2"></view>
+            <view class="beam r3"></view>
+            <view class="beam r4"></view>
+            <view class="beam r5"></view>
+            <view class="beam r6"></view>
+            <view class="beam r7"></view>
+            <view class="beam r8"></view>
+            <view class="beam r9"></view>
+            <view class="beam r10"></view>
+        </view>
+    </view>
+
+
+
+    <view id="pig">
+        <view id="pig_head"></view>
+
+        <view id="pig_ear_left"></view>
+        <view id="pig_ear_right"></view>
+
+        <view id="pig_eye_left"></view>
+        <view id="pig_eye_right"></view>
+
+        <view id="pig_snout"></view>
+        <view id="pig_snout_hole_left"></view>
+        <view id="pig_snout_hole_right"></view>
+   </view>
+</view>
